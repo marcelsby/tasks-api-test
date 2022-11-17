@@ -1,4 +1,4 @@
-package apiteste;
+package br.ce.wcaquino.apitest;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
