@@ -10,7 +10,7 @@ public class APITest {
 
   @BeforeClass
   public static void setup() {
-    RestAssured.baseURI = System.getProperty("api.baseurl");
+    RestAssured.baseURI = System.getProperty("api.baseuri");
   }
 
   @Test
